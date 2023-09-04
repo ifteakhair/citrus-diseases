@@ -10,7 +10,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from keras.models import load_model
 
 # load model
-model = load_model("model/modelResnet152V2.h5")
+model = load_model("model/modelResnet152V22.h5")
 
 print('@@ Model loaded')
 
